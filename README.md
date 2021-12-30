@@ -1,7 +1,7 @@
 # laxrgeocode
 Lax "City Level" Reverse Geocoding In Japan
 
-このリポジトリは、zennに投稿した [「Pythonによる市町村・逆ジオコーディングの実装」](https://zenn.dev/articles/cf1f8d7c57aee8) のソースコードと処理済のデータセットです。
+このリポジトリは、zennに投稿した [「Pythonによる市町村・逆ジオコーディングの実装」](https://zenn.dev/ryuuji/articles/cf1f8d7c57aee8) のソースコードと処理済のデータセットです。
 
 # コマンドライン
 ```bash
